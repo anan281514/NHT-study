@@ -1,0 +1,3 @@
+F:\anan\NHT-study\NHT-study\04.1Dtr\1Dtr\Debug\1Dtr.exe
+H:\NHT-study\04.1Dtr\1Dtr\Debug\1Dtr.exe
+H:\NHT-study\04.1Dtr\1Dtr_one_multi_timestep\Debug\1Dtr.exe
